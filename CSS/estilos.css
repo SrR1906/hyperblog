@@ -31,3 +31,11 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#footer {
+    text-align: center;
+    background-color: #777;
+    color: white;
+    padding: 0.5em;
+}
+
